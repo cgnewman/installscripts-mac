@@ -7,4 +7,4 @@ These scripts should be used after the OOTB setup, App Store login, and applying
 ## Step 1: Prepare
 Open the macOS Terminal app and run the following command:
 
-`/bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/cgnewman/installscripts-mac/HEAD/01-prepare.zsh)"
+`/bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/cgnewman/installscripts-mac/HEAD/01-prepare.zsh)"`
